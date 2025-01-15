@@ -1,4 +1,4 @@
-# tugas_pert6
+# Aqsal Pertemuan 6
 
 A new Flutter project.
 
